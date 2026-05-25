@@ -1,1 +1,9 @@
 @import "tailwindcss";
+body
+{
+    background-color: #D4D2A5;
+}
+.container input
+{
+    margin: 20px;
+}
