@@ -1,0 +1,15 @@
+*
+{
+    background-color: #AA445F;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    
+}
+.firstcell
+{
+    height: 100px;
+    width: 100px;
+    background-color: #F7EC7D;
+    position: absolute;
+}

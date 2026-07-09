@@ -1,0 +1,78 @@
+*
+{  
+    background-color: aquamarine;
+    color: white;
+}
+h1{
+    text-align: center;
+}
+.container
+{   margin-top: 100px;
+    height: 100px;
+    width: 70vi;
+    display: flex;
+    margin-left: 30rem;
+}
+.ticktak
+{  
+    background-color: rgb(244, 3, 3);
+    border: none,black;
+    border-radius: 2rem;
+    height: 60vmin;
+    width: 60vmin;
+    gap: 2vmin;
+    display: flex;
+     align-items: center;
+    justify-content: center;
+     flex-wrap: wrap;
+    
+
+}
+.box
+{
+    background-color: yellow;
+    color: solid black;
+    text-align: center;
+    justify-content: center;
+    font-weight: bolder;
+    font-size: 110px;
+    width: 18vmin;
+    height: 18vmin;
+    border: 5rem;
+    border-radius: 2rem;
+    box-shadow: 0 0 1rem ,rgb(0,0,0.5);
+
+}
+#back a
+{
+    text-decoration: dotted;
+    text-align: end;
+    align-items:self-end;
+    margin-top: 500rem;
+    justify-content: end;
+}
+#back h1{
+    justify-content: end;
+    margin-top: 23%;
+    margin-right: 68px;
+}
+#reset
+{
+    justify-content: center;
+    align-items: center;
+    margin-left: 45%;
+    border: 20px;
+    font-weight: 3rem;
+    border-color: black;
+}
+.msg-con
+{
+    padding: 10px;
+    width: 50px;
+    height: 50px;
+    margin-left: 650px;
+    position: absolute;
+    color: red;
+    font-weight: 3rem;
+
+}
